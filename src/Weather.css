@@ -2,5 +2,14 @@
   border: 2px solid #848484;
 }
 .Weather h1 {
-  color: aliceblue;
+  color: #292d33;
+  text-align: center;
+}
+.Weather ul {
+  margin: 0;
+}
+
+.Weather li {
+  list-style: none;
+  font-size: 14px;
 }
