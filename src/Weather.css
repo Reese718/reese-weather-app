@@ -3,6 +3,7 @@
 }
 .Weather h1 {
   color: #292d33;
+  text-align: center;
 }
 .Weather ul {
   margin: 0;
