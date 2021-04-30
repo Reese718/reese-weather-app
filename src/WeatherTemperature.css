@@ -1,0 +1,16 @@
+.WeatherTemperature {
+  color: #ffffff;
+}
+
+h3 {
+  font-size: 60px;
+}
+
+.units {
+  font-size: 20px;
+}
+
+.WeatherTemperature a {
+  color: red;
+  opacity: 0.3;
+}

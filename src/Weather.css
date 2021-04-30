@@ -1,11 +1,14 @@
 .Weather {
-  border: 2px solid #848484;
+  border: 2px solid #ffffff;
+  background-color: #000000;
+  border-radius: 10px;
 }
 .Weather h1 {
-  color: #292d33;
+  color: #ffffff;
   text-align: center;
 }
 .Weather ul {
+  color: #ffffff;
   margin: 0;
 }
 
